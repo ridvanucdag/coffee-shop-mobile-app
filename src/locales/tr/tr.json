@@ -1,0 +1,57 @@
+{
+  "home": {
+    "title": "Ana Sayfa",
+    "welcomeMessage": "Kahve dükkanımıza hoş geldiniz!",
+    "popularPromotionalProducts": "Kampanyalı Popüler Ürünler",
+    "topRatedProducts": "En Çok Puanlanan Ürünler",
+    "todaysDeals": "Bugün İndirimde Olanlar",
+    "allProducts": "Tüm Ürünler",
+    "emptyMessage": "Aradığın kelimede ürün bulunamadı.",
+    "featuredProducts": "Öne Çıkan Ürünler"
+  },
+  "favorite": {
+    "title": "Favoriler",
+    "favoriteCoffees": "Favori Kahvelerim",
+    "emptyMessage": "Favori ürün bulunamadı.",
+    "added": "Kahve favorilere eklendi.",
+    "removed": "Kahve favorilerden çıkarıldı."
+  },
+  "basket": {
+    "title": "Sepetim",
+    "emptyMessage": "Sepetinizde ürün yok.",
+    "delivery": "Sana Gelsin Adresim",
+    "cartSummary": "Sepet Özeti",
+    "cartFee": "Sepet Ücreti:",
+    "courierFee": "Kurye Ücreti:",
+    "discount": "İndirim:",
+    "totalFee": "Toplam Ücret:",
+    "completeOrder": "Siparişi Tamamla",
+    "removeItem": "Kahve sepetten çıkarıldı.",
+    "checkout": "Ödeme İşlemini Tamamla"
+  },
+  "profile": {
+    "title": "Profil",
+    "recentActivities": "Son Aktiviteler",
+    "editProfile": "Profili Düzenle",
+    "logout": "Çıkış Yap"
+  },
+  "productDetails": {
+    "title": "Ürün Detayı",
+    "description": "Açıklama",
+    "hide": "Gizle",
+    "showAll": "Tümünü Göster",
+    "total": "Toplam:",
+    "addtoCart": "Sepete Ekle",
+    "editProfile": "Profili Düzenle",
+    "logout": "Çıkış Yap"
+  },
+  "main": {
+    "welcome": "Hoş Geldiniz!",
+    "description": "Kahvenizi seçin ve tadını çıkarın",
+    "started": "Başlayalım"
+  },
+  "general": {
+    "delivery": "Sana Gelsin",
+    "pickup": "Gel Al"
+  }
+}

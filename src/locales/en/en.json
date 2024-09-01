@@ -1,0 +1,57 @@
+{
+  "home": {
+    "title": "Home",
+    "welcomeMessage": "Welcome to our coffee shop!",
+    "popularPromotionalProducts": "Promotional Popular Products",
+    "topRatedProducts": "Top Rated Products",
+    "todaysDeals": "Today's Deals",
+    "allProducts": "All Products",
+    "emptyMessage": "No products found for the search term.",
+    "featuredProducts": "Featured Products"
+  },
+  "favorite": {
+    "title": "Favorites",
+    "favoriteCoffees": "My Favorite Coffees",
+    "emptyMessage": "No favorite products found.",
+    "added": "Coffee added to favorites.",
+    "removed": "Coffee removed from favorites."
+  },
+  "basket": {
+    "title": "My Basket",
+    "emptyMessage": "Your basket is empty.",
+    "delivery": "Delivery Address",
+    "cartSummary": "Cart Summary",
+    "cartFee": "Cart Fee:",
+    "courierFee": "Courier Fee:",
+    "discount": "Discount:",
+    "totalFee": "Total Fee:",
+    "completeOrder": "Complete Order",
+    "removeItem": "Coffee removed from basket.",
+    "checkout": "Complete Payment Process"
+  },
+  "profile": {
+    "title": "Profile",
+    "recentActivities": "Recent Activities",
+    "editProfile": "Edit Profile",
+    "logout": "Logout"
+  },
+  "productDetails": {
+    "title": "Product Details",
+    "description": "Description",
+    "hide": "Hide",
+    "showAll": "Show All",
+    "total": "Total:",
+    "addtoCart": "Add to Basket",
+    "editProfile": "Edit Profile",
+    "logout": "Logout"
+  },
+  "main": {
+    "welcome": "Welcome!",
+    "description": "Choose your coffee and enjoy",
+    "started": "Let's Get Started"
+  },
+  "general": {
+    "delivery": "Delivery",
+    "pickup": "Pickup"
+  }
+}

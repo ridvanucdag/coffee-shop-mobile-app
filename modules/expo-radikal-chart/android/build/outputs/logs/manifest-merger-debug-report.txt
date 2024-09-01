@@ -1,0 +1,14 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ridvanu/Desktop/Projeler/case-projeler/CoffeeShopMobileApp/modules/expo-radikal-chart/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/ridvanu/Desktop/Projeler/case-projeler/CoffeeShopMobileApp/modules/expo-radikal-chart/android/src/main/AndroidManifest.xml:1:1-2:12
+	package
+		INJECTED from /Users/ridvanu/Desktop/Projeler/case-projeler/CoffeeShopMobileApp/modules/expo-radikal-chart/android/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/ridvanu/Desktop/Projeler/case-projeler/CoffeeShopMobileApp/modules/expo-radikal-chart/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ridvanu/Desktop/Projeler/case-projeler/CoffeeShopMobileApp/modules/expo-radikal-chart/android/src/main/AndroidManifest.xml
+INJECTED from /Users/ridvanu/Desktop/Projeler/case-projeler/CoffeeShopMobileApp/modules/expo-radikal-chart/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ridvanu/Desktop/Projeler/case-projeler/CoffeeShopMobileApp/modules/expo-radikal-chart/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ridvanu/Desktop/Projeler/case-projeler/CoffeeShopMobileApp/modules/expo-radikal-chart/android/src/main/AndroidManifest.xml
