@@ -36,7 +36,7 @@ const Index = () => {
           store.dispatch(setFavorites(favoriteIds));
         }
       } catch (error) {
-        console.error("Error loading cart or favorites from AsyncStorage", error);
+        console.error("Error", error);
       }
     };
 

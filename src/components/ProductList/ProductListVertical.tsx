@@ -20,7 +20,7 @@ interface ProductListVerticalProps {
   products: Coffee[];
   showFavoriButton?: boolean;
   title?:string
-}
+} 
 
 const ProductListVertical: React.FC<ProductListVerticalProps> = ({
   products,
@@ -31,8 +31,7 @@ const ProductListVertical: React.FC<ProductListVerticalProps> = ({
   const navigation = useNavigation<StackNavigationProp<StackNavigatorParamList>>();
   const [favoriteIds, setFavoriteIds] = useState<string[]>([]);
 
-  const handleProductPress = (item: Coffee) => {
-    console.log("Navigating to detail for:", item.name);
+  const handleProductPress = (item: Coffee) => { d
     navigation.navigate("Detail", { coffee: item });
   };
 

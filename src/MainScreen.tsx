@@ -8,7 +8,6 @@ const MainScreen = () => {
   const navigation = useNavigation<NavigationProp<StackNavigatorParamList>>();
   const { t } = useTranslation();
   const handleNavigate = (): void => {
-    console.log("Navigating to Tab with screen: Home");
     navigation.navigate('Tab', { screen: 'AnaSayfa' });
   };
 
