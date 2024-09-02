@@ -5,5 +5,5 @@ Böylece geçen hafta sonumu bu projeyi kodlayarak değerlendirmiş oldum. Bu da
 Bu projede React Native, Redux ve TypeScript kullandım.
 
 
-![](src/assets/images/Main/readme.jpg)
+![](src/assets/images/Main/readme.png)
 
